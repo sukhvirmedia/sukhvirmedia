@@ -1,0 +1,584 @@
+.version.index /* version checker */
+{
+	color: #0000F9;
+	background-color: #2D6BDB;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 317px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 183px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#slideshowu3042
+{
+	z-index: 2;
+	width: 0.01px;
+	height: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 69px;
+	left: 155px;
+}
+
+#u3045
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u3045popup
+{
+	z-index: 3;
+}
+
+#u3050
+{
+	z-index: 4;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u3094
+{
+	z-index: 6;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u3103
+{
+	z-index: 8;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#u701
+{
+	z-index: 55;
+	width: 157px;
+	min-height: 132px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	font-family: actor, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 185px;
+	left: 402px;
+}
+
+#pamphletu414
+{
+	z-index: 10;
+	width: 0.01px;
+	height: 153px;
+	padding-bottom: 1065px;
+	position: fixed;
+	top: -12px;
+	right: 315px;
+}
+
+#u415
+{
+	position: absolute;
+	width: 371px;
+	background-color: transparent;
+}
+
+#u415popup
+{
+	z-index: 11;
+}
+
+#u416
+{
+	z-index: 12;
+	width: 315px;
+	height: 483px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #505050;
+	padding-top: 12px;
+	padding-right: 56px;
+	padding-bottom: 723px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u433
+{
+	z-index: 41;
+	width: 155px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #323232;
+	position: relative;
+	padding: 18px 117px 12px 43px;
+}
+
+#u484
+{
+	z-index: 42;
+	width: 75px;
+	background-color: transparent;
+	margin-left: 41px;
+	position: relative;
+}
+
+#u490-4
+{
+	z-index: 44;
+	width: 155px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u490
+{
+	font-size: 20px;
+	color: #FFFFFF;
+	line-height: 24px;
+}
+
+#buttonu434
+{
+	z-index: 13;
+	width: 313px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 24px;
+	margin-left: 1px;
+	position: relative;
+}
+
+#u437-4
+{
+	z-index: 14;
+	width: 122px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 34px;
+	left: 96px;
+}
+
+#buttonu434:hover #u437-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	margin: 34px -10000px 0px 0px;
+}
+
+#buttonu434.ButtonSelected #u437-4 p,#buttonu434.ButtonSelected #u437-4 span
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u435
+{
+	z-index: 18;
+	width: 17px;
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 296px;
+}
+
+#buttonu434:hover #u435
+{
+	background-color: transparent;
+	margin: 24px -10000px 0px 0px;
+}
+
+#buttonu434:active #u435
+{
+	background-color: transparent;
+	margin: 24px -10000px 0px 0px;
+}
+
+#buttonu438
+{
+	z-index: 20;
+	width: 313px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 24px;
+	margin-left: 1px;
+	position: relative;
+}
+
+#buttonu438:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #2E3131;
+	margin: 0px 0px 0px 1px;
+}
+
+#u439-4
+{
+	z-index: 21;
+	width: 122px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 34px;
+	left: 96px;
+}
+
+#buttonu434.ButtonSelected #u437-4,#buttonu438:hover #u439-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	margin: 34px -10000px 0px 0px;
+}
+
+#u440
+{
+	z-index: 25;
+	width: 17px;
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 296px;
+}
+
+#buttonu434.ButtonSelected #u435,#buttonu438:hover #u440
+{
+	background-color: transparent;
+	margin: 24px -10000px 0px 0px;
+}
+
+#buttonu438:active #u440
+{
+	background-color: transparent;
+	margin: 24px -10000px 0px 0px;
+}
+
+#buttonu429
+{
+	z-index: 27;
+	width: 313px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 24px;
+	margin-left: 1px;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+}
+
+#buttonu429:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #313131;
+	margin: 0px 0px -1px 1px;
+}
+
+#u432-4
+{
+	z-index: 28;
+	width: 122px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 34px;
+	left: 96px;
+}
+
+#buttonu438.ButtonSelected #u439-4,#buttonu429:hover #u432-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	margin: 34px -10000px 0px 0px;
+}
+
+#buttonu429.ButtonSelected #u432-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	margin: 34px -10000px 0px 0px;
+}
+
+#u430
+{
+	z-index: 32;
+	width: 17px;
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 296px;
+}
+
+#buttonu438.ButtonSelected #u440,#buttonu429:hover #u430
+{
+	background-color: transparent;
+	margin: 24px -10000px 0px 0px;
+}
+
+#buttonu429:active #u430
+{
+	background-color: transparent;
+	margin: 24px -10000px 0px 0px;
+}
+
+#buttonu421
+{
+	z-index: 34;
+	width: 313px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 36px;
+	margin-left: 1px;
+	position: relative;
+}
+
+#buttonu421:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #313131;
+	margin: 0px 0px 0px 1px;
+}
+
+#buttonu434.ButtonSelected,#buttonu421.ButtonSelected
+{
+	background-color: transparent;
+	margin: 0px 0px 0px 1px;
+}
+
+#u424-4
+{
+	z-index: 35;
+	width: 159px;
+	min-height: 24px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 37px;
+	left: 77px;
+}
+
+#buttonu421:hover #u424-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	margin: 37px -10000px 0px 0px;
+}
+
+#buttonu421.ButtonSelected #u424-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 24px;
+	margin: 37px -10000px 0px 0px;
+}
+
+#u490-2,#u437-2,#u439-2,#u432-2,#u424-2
+{
+	padding-top: 1px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u437,#u439,#u432,#u424
+{
+	color: #FFFFFF;
+	line-height: 19px;
+}
+
+#u422
+{
+	z-index: 39;
+	width: 17px;
+	border-style: none;
+	background-color: transparent;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 296px;
+}
+
+#buttonu429.ButtonSelected #u430,#buttonu421:hover #u422
+{
+	background-color: transparent;
+	margin: 24px -10000px 0px 0px;
+}
+
+#buttonu421:active #u422
+{
+	background-color: transparent;
+	margin: 24px -10000px 0px 0px;
+}
+
+#buttonu421.ButtonSelected #u422
+{
+	background-color: transparent;
+	margin: 24px -10000px 0px 0px;
+}
+
+#u450
+{
+	z-index: 48;
+	width: 72px;
+	padding-bottom: 142px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 243px;
+}
+
+#u451
+{
+	width: 72px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	padding-bottom: 55px;
+	position: fixed;
+	top: 0px;
+	right: 0px;
+}
+
+#u451:hover
+{
+	background-color: #C8C8C8;
+	margin: 0px;
+}
+
+#u451.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	margin: 0px;
+}
+
+#u452
+{
+	z-index: 50;
+	width: 39px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 55px;
+	left: 16px;
+}
+
+#u451:hover #u452
+{
+	margin: 55px -10000px 0px 0px;
+}
+
+#u451.PamphletThumbSelected #u452
+{
+	margin: 55px -10000px 0px 0px;
+}
+
+#u452_img
+{
+	margin-right: -1px;
+}
+
+#u456
+{
+	position: absolute;
+	width: 72px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	padding-bottom: 40px;
+	top: 12px;
+	left: 243px;
+}
+
+#u457
+{
+	z-index: 53;
+	width: 60px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 40px;
+	left: 5px;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
